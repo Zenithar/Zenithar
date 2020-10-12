@@ -12,7 +12,7 @@ Distributed worker node for [Elastic](https://github.com/elastic).
 
 ## Links
 
-* [CV](cv_en.pdf)
+* [CV](CV_en.pdf)
 * [Keybase](https://keybase.io/zenithar)
 * [Linkedin](https://linkedin.com/in/zenithar)
 * [Twitter](https://twitter.com/zenithar)
